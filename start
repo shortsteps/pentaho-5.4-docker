@@ -1,0 +1,1 @@
+sh $PENTAHO_HOME/biserver-ce/start-pentaho.sh
